@@ -10,7 +10,7 @@
 Bem vindos a minha fanpage do filme **FNAF**, cujo qual, possuo um grande apreço e admiração, pelo fato de sua história ter marcado minha adolescência. 
 Este é o meu primeiro projeto pessoal, com intuito de medir, praticar, evoluir e demonstrar a evolução de meus conhecimentos de HTML, CSS e Javascript.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias Utilizadas
 
 - HTML
 - CSS
