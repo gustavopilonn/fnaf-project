@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="../FNAF/assets/preview.png" width="75%" height="70%"/>
+  <img src="./assets/preview.png" width="75%" height="70%"/>
 </p>
 
 ## 💻 Projeto
