@@ -1,0 +1,56 @@
+.container-trailer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+/* Poster do Filme - Sessão Filme */ 
+
+.poster-oficial {
+padding: 0;
+}
+
+.poster-imagem {
+    /*margin-top: 160px;
+    padding-right: 400px; */
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 280px;
+
+}
+
+.background-image-trailer {
+    background: url(../assets/background-image2.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}   
+/* Título do Filme + Rotten Tomatoes + Sinopse */
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255/var(--tw-text-opacity));
+}
+.text-xs {
+    font-size:.75rem;
+    line-height: 1rem;
+}
+
+.leading-none {
+    line-height: 1;
+}
+.text-sm {
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+.line-clamp-2 {
+    -webkit-line-clamp: 2;
+}
+.line-clamp-1, .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
